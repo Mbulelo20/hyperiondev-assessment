@@ -1,8 +1,8 @@
 # Getting Started 
-Open a command line and run git clone .\
+Open a command line and run `git clone https://github.com/Mbulelo20/hyperiondev-assessment.git`.
 
 Sections A, B and C are standalone solutions in root.\
-Section B contains url to oneof my favourite personal projects
+Section B contains url to oneof my favourite personal projects: `https://github.com/Mbulelo20/mern-contacts.git`
 
 ## To run
 
